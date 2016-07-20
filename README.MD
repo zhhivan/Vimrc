@@ -1,1 +1,1 @@
-"# Vimrc" 
+# Vimrc
